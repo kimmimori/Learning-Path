@@ -15,7 +15,7 @@ Reproduces the generation of lotto tickets
 - Print the generated tickets with nice ascii art table decoration (https://ozh.github.io/ascii-tables/)
 
 
-## Launch the software
+## Start the software
 
 ```bash
 python3 main.py -n {0,1,2,3,4,5}
