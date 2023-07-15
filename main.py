@@ -3,7 +3,7 @@
 This is the project's entrypoint, requires a number of tickets to generate using the argparse module.
 To start the project launch from a Terminal: "python3 main.py -n [a number between 1 and 5 (0 to end the program)]"
 """
-
+print("demi")
 from argparse import ArgumentParser
 from lotto.lotto import Lotto
 
